@@ -39,7 +39,6 @@ apis:
   - name: Quotable Quotes
     description: "Quotable is a free, open source quotations API"
     humanURL: https://github.com/lukePeavey/quotable
-    baseURL: https://github.com/lukePeavey/quotable
     tags:
       - Personality
     properties:
